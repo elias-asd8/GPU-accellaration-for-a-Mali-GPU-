@@ -14,7 +14,7 @@ this is the important bit. copy this block or put this in ur ~/.bashrc or in ur 
 export DISPLAY=:0
 export EGL_PLATFORM=x11
 export LIBGL_ALWAYS_INDIRECT=0
-export GALLIUM_DRIVER=panfrost
+export GALLIUM_DRIVER=zink
 ```
 # DONE.
 have fun and hope this works!
